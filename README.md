@@ -24,6 +24,13 @@ A simple Movie Recommendation Python Recommendation is done using "cosine simila
 (h) Print titles of first 5 movies
 
 ## Project-2
+
+Upper Confidence Bound, One of the simplest policies for making decisions based on action values estimates is greedy action selection. This means, that in order to choose an action we compute an estimated value of all the possible actions and pick the one which has the highest estimate.
+In this project we will be using the same approach to estimate the advertisement which was clicked maximum number of times by the user.
+The dataset which we will be using for this is "Ads_CTR_Optimisation.csv". In this dataset we are given the information of 10 ADs and 10000 users. If the user clicks on a particular Advertisement then it will be marked as 1 else 0.
+
+### -> Steps to implement this project:
+
 ## Project-3 - Predicting the salary of an employee based on his/her years of experience
 In this project we will be using Simple linear regression model. In statistics, simple linear regression is a linear regression model with a single explanatory variable. That is, it concerns two-dimensional sample points with one independent variable and one dependent variable (conventionally, the x and y coordinates in a Cartesian coordinate system) and finds a linear function (a non-vertical straight line) that, as accurately as possible, predicts the dependent variable values as a function of the independent variable.
 In this we are using a very small datset having only 2 columns, i.e., YearsExperience	and the Salary.
