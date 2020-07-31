@@ -6,7 +6,7 @@ A simple Movie Recommendation Python Recommendation is done using "cosine simila
 
 ![a](https://user-images.githubusercontent.com/68856803/89008744-d2fa6800-d328-11ea-83a8-1fb07d3dded5.png)
 
-### steps to implemet this project:
+### -> Steps to implement this project:
 Step 1: Read CSV File
 
 Step 2: Select Features
