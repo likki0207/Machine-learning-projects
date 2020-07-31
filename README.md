@@ -7,21 +7,21 @@ A simple Movie Recommendation Python Recommendation is done using "cosine simila
 ![a](https://user-images.githubusercontent.com/68856803/89008744-d2fa6800-d328-11ea-83a8-1fb07d3dded5.png)
 
 ### -> Steps to implement this project:
-Step 1: Read CSV File
+(a) Read CSV File
 
-Step 2: Select Features
+(b) Select Features
 
-Step 3: Create a column in df which combines all selected features
+(c) Create a column in df which combines all selected features
 
-Step 4: Create count matrix from this new combined column
+(d) Create count matrix from this new combined column
 
-Step 5: Compute the Cosine Similarity based on the count_matrix
+(e) Compute the Cosine Similarity based on the count_matrix
 
-Step 6: Get index of this movie from its title
+(f) Get index of this movie from its title
 
-Step 7: Get a list of similar movies in descending order of similarity score
+(g) Get a list of similar movies in descending order of similarity score
 
-Step 8: Print titles of first 5 movies
+(h) Print titles of first 5 movies
 
 ## Project-2
 ## Project-3 - Predicting the salary of an employee based on his/her years of experience
@@ -29,7 +29,24 @@ In this project we will be using Simple linear regression model. In statistics, 
 In this we are using a very small datset having only 2 columns, i.e., YearsExperience	and the Salary.
 
 Following is the plot obtained for training set results:
+![a](https://user-images.githubusercontent.com/68856803/89012376-c299bb80-d32f-11ea-9a2d-0d821b58d250.png)
 
-## Project-4
+### -> Steps to implement this project:
+(a) Importing the required libraries
+
+(b) Importing the dataset
+
+(c) Splitting the dataset into the Training set and Test set
+
+(d) Training the Simple Linear Regression model on the Training set
+
+(e) Predicting the Test set results
+
+(f) Visualising the Training set results
+
+(g) Visualising the Test set results
+
+(h) predicting the salary based upon the value entered by the user
+
 
 
