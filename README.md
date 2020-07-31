@@ -29,6 +29,7 @@ In this project we will be using Simple linear regression model. In statistics, 
 In this we are using a very small datset having only 2 columns, i.e., YearsExperience	and the Salary.
 
 Following is the plot obtained for training set results:
+
 ![a](https://user-images.githubusercontent.com/68856803/89012376-c299bb80-d32f-11ea-9a2d-0d821b58d250.png)
 
 ### -> Steps to implement this project:
