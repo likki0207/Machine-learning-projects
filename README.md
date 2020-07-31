@@ -4,6 +4,8 @@ Machine learning is an application of artificial intelligence (AI) that provides
 ## Project-1 - Recommendation system
 A simple Movie Recommendation Python Recommendation is done using "cosine similarity" between certain features of the movies.
 
+![a](https://user-images.githubusercontent.com/68856803/89008744-d2fa6800-d328-11ea-83a8-1fb07d3dded5.png)
+
 ### steps to implemet this project:
 Step 1: Read CSV File
 
