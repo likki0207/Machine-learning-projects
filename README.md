@@ -23,7 +23,7 @@ A simple Movie Recommendation Python Recommendation is done using "cosine simila
 
 (h) Print titles of first 5 movies
 
-## Project-2
+## Project-2 - To find the advertisememnt which was clicked maximum number of times by the users
 
 Upper Confidence Bound, One of the simplest policies for making decisions based on action values estimates is greedy action selection. This means, that in order to choose an action we compute an estimated value of all the possible actions and pick the one which has the highest estimate.
 In this project we will be using the same approach to estimate the advertisement which was clicked maximum number of times by the user.
