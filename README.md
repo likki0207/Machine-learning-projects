@@ -31,6 +31,9 @@ The dataset which we will be using for this is "Ads_CTR_Optimisation.csv". In th
 
 ### -> Steps to implement this project:
 
+![b](https://user-images.githubusercontent.com/68856803/89013310-4acc9080-d331-11ea-96b6-f3257339d1fd.png)
+
+
 ## Project-3 - Predicting the salary of an employee based on his/her years of experience
 In this project we will be using Simple linear regression model. In statistics, simple linear regression is a linear regression model with a single explanatory variable. That is, it concerns two-dimensional sample points with one independent variable and one dependent variable (conventionally, the x and y coordinates in a Cartesian coordinate system) and finds a linear function (a non-vertical straight line) that, as accurately as possible, predicts the dependent variable values as a function of the independent variable.
 In this we are using a very small datset having only 2 columns, i.e., YearsExperience	and the Salary.
